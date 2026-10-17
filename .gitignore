@@ -1,0 +1,9 @@
+
+.venv/
+__pycache__/
+*.pyc
+
+# Keep the large generated dataset in Google Drive
+dataset_v2/base_docs/
+dataset_v2/tampered/
+dataset_v2/captures/
